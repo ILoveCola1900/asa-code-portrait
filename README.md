@@ -79,6 +79,6 @@ This is not a technical upgrade, but a continuous approach toward the feeling of
 
 ## License
 
-RUC
+MIT
 
 *Fan art for personal use only. Original photo credit to owner.*
